@@ -7,4 +7,14 @@ category: test category
 draft: true
 ---
 
-hoge
+フーリエ級数(?)
+
+$$
+f(\relax{x}) = \int_{-\infty}^\infty
+    f(\hat\xi)\,e^{2 \pi i \xi x}
+    \,d\xi
+$$
+
+```rust
+println!("hello fuwari");
+```
