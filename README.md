@@ -1,6 +1,10 @@
 # sifi-blog
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/c4ceb74b-a777-4917-82fa-986b38a8b39d/deploy-status)](https://app.netlify.com/projects/sifi-blog/deploys)
+
 Personal blog by [sifi-border](https://github.com/sifi-border).
+
+todo: insert preview
 
 ## 🛠️ Tech Stack
 
