@@ -26,7 +26,7 @@ import { pluginCustomCopyButton } from "./src/plugins/expressive-code/custom-cop
 
 // https://astro.build/config
 export default defineConfig({
-	site: "https://sifi-blog.netlify.app/",
+	site: "https://blog.sifi-border.net/",
 	base: "/",
 	trailingSlash: "always",
 	integrations: [

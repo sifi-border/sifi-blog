@@ -70,7 +70,7 @@ export const profileConfig: ProfileConfig = {
 		{
 			name: "Bluesky",
 			icon: "fa6-brands:bluesky",
-			url: "https://bsky.app/profile/sifi-border.bsky.social",
+			url: "https://bsky.app/profile/sifi-border.net",
 		},
 		{
 			name: "GitHub",
