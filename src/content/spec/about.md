@@ -10,8 +10,8 @@
 
 ### Proficient in
 
-- **バックエンド開発**
-- **Androidアプリ開発**
+- **Backend Development** with Elixir
+- **Android Development** with Jetpack Compose
 
 ### Learning & Interested in
 
