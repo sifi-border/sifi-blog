@@ -1,8 +1,8 @@
 # About
 
-学生時代はCheminformaticsに関する研究をしていました。
+学生時代は Cheminformatics に関する研究をしていました。
 
-現在は国内でソフトウェアエンジニアをしています。  
+現在は国内で Software Engineer をしています。  
 
 家の中や鮭が好きです。
 
