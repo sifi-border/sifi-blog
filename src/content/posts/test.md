@@ -18,3 +18,11 @@ $$
 ```rust
 println!("hello fuwari");
 ```
+
+## 命題 2.6.18
+
+$H$ が群 $G$ の部分群なら、
+
+1. $|G/H| = |H \backslash G|$ である（$\infty$ の可能性あり）
+
+2. $\forall g \in G, |gH| = |Hg| = |H|$
