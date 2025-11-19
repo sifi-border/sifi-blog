@@ -48,7 +48,7 @@ lang: 'ja'
 >
 > こんなところです。固いこと書いてますが中身は割とテキトーですので👋
 >
-> <https://sifi-border.hatenablog.com/entry/2017/08/18/152137>
+> <https://sifi-border.hatenablog.com/entry/2017/07/09/181246>
 
 (今の自分には書けないような文体で趣がある。)
 
