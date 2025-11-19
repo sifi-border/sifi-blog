@@ -16,7 +16,7 @@ f(\relax{x}) = \int_{-\infty}^\infty
 $$
 
 ```rust
-println!("hello fuwari");
+println!("hello fuwari!");
 ```
 
 ## 命題 2.6.18

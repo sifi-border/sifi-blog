@@ -5,7 +5,7 @@ description: 'blog site 作ってみた'
 image: 'enju.jpg'
 tags: [poem, tech]
 category: 'blog'
-draft: true 
+draft: false
 lang: 'ja'
 ---
 
@@ -30,7 +30,7 @@ lang: 'ja'
 
 ---
 
-# Own my site to blog
+# Only my site to blog
 
 ## blogの動機
 
