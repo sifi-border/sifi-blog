@@ -1,5 +1,5 @@
 ---
-title: 2025 hoge
+title: 2025 is over, though not started.
 published: 2025-12-15
 description: ' 2025年を個人的に振り返る'
 image: 'https://pbs.twimg.com/media/G6U17K3a8AEtQHp?format=jpg&name=small'
