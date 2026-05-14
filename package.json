@@ -16,7 +16,7 @@
     "preinstall": "npx only-allow pnpm"
   },
   "dependencies": {
-    "@astrojs/check": "^0.9.8",
+    "@astrojs/check": "^0.9.9",
     "@astrojs/rss": "^4.0.18",
     "@astrojs/sitemap": "^3.7.2",
     "@astrojs/svelte": "7.2.5",
@@ -29,7 +29,7 @@
     "@iconify-json/fa6-brands": "^1.2.6",
     "@iconify-json/fa6-regular": "^1.2.4",
     "@iconify-json/fa6-solid": "^1.2.4",
-    "@iconify-json/material-symbols": "^1.2.66",
+    "@iconify-json/material-symbols": "^1.2.72",
     "@iconify/svelte": "^4.2.0",
     "@swup/astro": "^1.7.0",
     "@tailwindcss/typography": "^0.5.19",
@@ -37,7 +37,7 @@
     "astro-expressive-code": "^0.41.7",
     "astro-icon": "^1.1.5",
     "hastscript": "^9.0.1",
-    "katex": "^0.16.45",
+    "katex": "^0.16.46",
     "markdown-it": "^14.1.1",
     "mdast-util-to-string": "^4.0.0",
     "overlayscrollbars": "^2.13.0",
@@ -62,7 +62,7 @@
     "unist-util-visit": "^5.0.0"
   },
   "devDependencies": {
-    "@astrojs/ts-plugin": "^1.10.7",
+    "@astrojs/ts-plugin": "^1.10.8",
     "@biomejs/biome": "2.3.13",
     "@rollup/plugin-yaml": "^4.1.2",
     "@types/hast": "^3.0.4",
