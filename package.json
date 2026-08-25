@@ -63,7 +63,7 @@
   },
   "devDependencies": {
     "@astrojs/ts-plugin": "^1.10.11",
-    "@biomejs/biome": "2.5.9",
+    "@biomejs/biome": "2.5.10",
     "@rollup/plugin-yaml": "^4.1.2",
     "@types/hast": "^3.0.5",
     "@types/markdown-it": "^14.2.0",
