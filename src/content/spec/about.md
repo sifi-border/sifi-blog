@@ -6,21 +6,18 @@
 
 家の中や鮭が好きです。
 
-## 💻 Skills
-
-### Proficient in
-
-- **Backend Development** with Elixir
-- **Android Development** with Jetpack Compose
-
-### Learning & Interested in
+## 💻 Learning & Interested in
 
 - Rust
-- AWS（SAA資格学習中）
+- AWS
+
+## 📜 Certifications
+
+- AWS Certified Solutions Architect – Associate (2026.10)
 
 ## 🎮 Hobbies
 
 対戦ゲームを嗜んでいます
 
-- Shadowverse
-- SF6, GGST, GBVSR
+- [Chess](https://www.chess.com/member/sifi_border)（Rapid 900）
+- [Street Fighter 6](https://www.streetfighter.com/6/buckler/ja-jp/profile/1478978788)（Master｜Juri, Mai, Akuma）
